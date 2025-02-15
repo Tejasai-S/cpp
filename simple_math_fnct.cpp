@@ -30,7 +30,7 @@
 //     return 0;
 // }
 
-/* If you want to check more math function wist this website:
+/* If you want to check more math function visit this website:
 https://www.cplusplus.com/reference/cmath/ */
 
 int main(){
