@@ -2,13 +2,11 @@
 
 
 int main(){
-    int i = 1;
     int sum = 0;
-
-    while (i<=10){
+    for (int i = 1; i <=10; i++)
+    {
         sum=sum+i;
-        i++;
     }
-    std::cout << "sum: " << sum << "\n";
+    std::cout << "the sum is: " << sum << "\n";
     return 0;
 }
